@@ -1,2 +1,3 @@
 cairosvg
 svgutils
+lxml
