@@ -11,4 +11,5 @@ dentro da pasta que possui o template: `python ../generator.py`
 
 ### MUITISSIMO OBRIGADA JOÃO!
 
-Além disso muito amor a 
+Além disso muito amor a @thaisviana, ao @pedro-m e ao @jcemelanda que ajudaram imensamente,
+desvendando o código e preparando o template
